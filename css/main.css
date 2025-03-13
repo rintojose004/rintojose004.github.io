@@ -7058,23 +7058,16 @@ Created using IcoMoon - icomoon.io
 
 /* Footer */
 /* Social button style */
-.cc-facebook:hover i {
-  color: #3b5998;
+
+.cc-google-plus i {
+  color: #007bff;
 }
 
-.cc-twitter:hover i {
-  color: #1da1f2;
+.cc-instagram i {
+  color: #E4405F;
 }
-
-.cc-google-plus:hover i {
-  color: #dd4b39;
-}
-
-.cc-instagram:hover i {
-  color: #405de6;
-}
-.cc-whatsapp:hover i {
-  color: green;
+.cc-whatsapp i {
+  color: #25D366;
 }
 
 /* Credit Style */
@@ -7090,4 +7083,8 @@ a.credit {
   padding-bottom: 0;
 }
 
-
+.shadowText {
+  font-weight: bold;
+  color: #333;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
